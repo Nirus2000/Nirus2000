@@ -45,8 +45,15 @@ I’m a **technology enthusiast** with a deep passion for **software development
 ---
 
 ## 📈 GitHub Stats
-![Nirus2000's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirus2000&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirus2000&layout=compact&theme=radical)
+### 🔹 General Stats
+![Nirus2000's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirus2000&show_icons=true&theme=radical&count_private=true)  
+
+### 🔹 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirus2000&layout=compact&theme=radical)  
+
+### 🔹 Contribution Graph  
+[![Nirus2000's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nirus2000&theme=react-dark)](https://github.com/Nirus2000)  
+
 
 ---
 
