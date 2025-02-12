@@ -14,13 +14,14 @@ I’m a **technology enthusiast** with a passion for **software development**, *
 
 ## 💻 Tech Stack  
 
-| **Category**                | **Tools & Technologies**                                            |
-|-----------------------------|---------------------------------------------------------------------|
-| **Programming & Web**        | PHP, JavaScript, Java, Delphi, Visual Basic, VBA, CSS, HTML, MySQL |
-| **Web Platforms & IDEs**     | WordPress, Eclipse IDE                                             |
-| **Industrial Automation**    | Siemens STEP 7 / TIA Portal, GE Fanuc Proficy, Rockwell Allen-Bradley PLCs, Schneider Electric Systems, Festo Servo Systems |
-| **Engineering Tools**        | CodeSys (IEC 61131-3), Keil µVision, DigiCAD, WinFACT Boris        |
-| **Business & Productivity**  | SAP ERP / SAP R3, MS Windows OS & MS Office Suite, GanttProject, Freemind |
+| **Category**               | **Technologies**                                                                                           |
+|----------------------------|-----------------------------------------------------------------------------------------------------------|
+| **🌐 Programming & Web**    | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) ![Delphi](https://img.shields.io/badge/-Delphi-EE1F35?style=flat-square) ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) |
+| **🖥️ Web & IDEs**          | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse) |
+| **⚙️ Automation & PLC**    | ![Siemens](https://img.shields.io/badge/-Siemens%20STEP%207-0078D7?style=flat-square) GE Fanuc Proficy, Rockwell Allen-Bradley, Schneider Electric, Festo Servo Systems |
+| **🔧 Engineering Tools**   | CodeSys (IEC 61131-3), Keil µVision, DigiCAD, WinFACT Boris                                               |
+| **📊 Business Tools**      | ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white) ![Microsoft](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white) GanttProject, Freemind                                                  |
+
 
 ---
 
@@ -33,19 +34,19 @@ I’m a **technology enthusiast** with a passion for **software development**, *
 
 ---
 
-## 🌱 Learning Focus  
-
-| **Topic**                      | **Details**                      |
-|--------------------------------|----------------------------------|
-| **Cloud Computing & DevOps**   | Improving infrastructure skills  |
-| **Machine Learning**           | Focus on predictive analytics    |
-| **Embedded Systems**           | Enhancing automation expertise   |
-
----
-
 ## 📫 Get in Touch  
 
 | 🌐 [Website](https://www.nirus-online.de) | 🌐 [Facebook](https://www.facebook.com/alexander.ott.1004) |
+
+---
+
+## 🌱 Learning Focus  
+
+| **Topic**                  | **Details**                      |
+|----------------------------|----------------------------------|
+| **☁️ Cloud & DevOps**      | Improving infrastructure skills  |
+| **🤖 Machine Learning**    | Focus on predictive analytics    |
+| **📡 Embedded Systems**    | Enhancing automation expertise   |
 
 ---
 
