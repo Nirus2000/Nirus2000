@@ -1,65 +1,51 @@
 # 👋 Hello, I'm Nirus2000!
 
 Welcome to my GitHub profile! 🚀  
-I’m a **technology enthusiast** with a deep passion for **software development**, **automation systems**, and **technical solutions** across multiple industries. My expertise ranges from **web development** to **industrial automation**, combining **IT systems** and **engineering** to create innovative solutions.  
+I’m a **technology enthusiast** with a passion for **software development**, **automation systems**, and **technical solutions**. My expertise ranges from **web development** to **industrial automation**, combining **IT systems** and **engineering** to create innovative solutions.  
 
 ---
 
-## 💻 Tech Stack
+## 📈 GitHub Stats  
 
-### **Programming Languages & Web Development**
-- PHP, JavaScript, Java, Delphi, Visual Basic, VBA  
-- CSS, HTML, MySQL  
-- WordPress, Eclipse IDE  
-
-### **Industrial Automation & Engineering Tools**
-- Siemens STEP 7 / TIA Portal  
-- GE Fanuc Proficy  
-- Rockwell Allen-Bradley PLCs  
-- Schneider Electric Systems  
-- Festo Servo Systems  
-- CodeSys (IEC 61131-3)  
-- Keil µVision  
-
-### **Business & Productivity Tools**
-- SAP ERP / SAP R3  
-- MS Windows OS & MS Office Suite  
-- GanttProject, Freemind  
-- DigiCAD, WinFACT Boris  
+| ![General Stats](https://github-readme-stats.vercel.app/api?username=Nirus2000&show_icons=true&theme=radical&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirus2000&layout=compact&theme=radical) |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 
 ---
 
-## 🔭 Current Projects
-- 📈 Contributing to [**Portfolio Performance**](https://github.com/portfolio-performance)  
-  A powerful tool to track the performance of your portfolio, supporting a variety of asset types and providing deep insights into your investments.  
-- 🤝 Supporting [**Portfolio Performance Help**](https://github.com/portfolio-performance/portfolio-help)  
-  Helping the community with documentation and providing assistance for new users of Portfolio Performance.  
+## 💻 Tech Stack  
+
+| **Category**                | **Tools & Technologies**                                            |
+|-----------------------------|---------------------------------------------------------------------|
+| **Programming & Web**        | PHP, JavaScript, Java, Delphi, Visual Basic, VBA, CSS, HTML, MySQL |
+| **Web Platforms & IDEs**     | WordPress, Eclipse IDE                                             |
+| **Industrial Automation**    | Siemens STEP 7 / TIA Portal, GE Fanuc Proficy, Rockwell Allen-Bradley PLCs, Schneider Electric Systems, Festo Servo Systems |
+| **Engineering Tools**        | CodeSys (IEC 61131-3), Keil µVision, DigiCAD, WinFACT Boris        |
+| **Business & Productivity**  | SAP ERP / SAP R3, MS Windows OS & MS Office Suite, GanttProject, Freemind |
 
 ---
 
-## 🌱 What I’m Currently Learning
-- Advanced concepts in **Cloud Computing** and **DevOps**  
-- Exploring **Machine Learning** for predictive analytics  
-- Enhancing my expertise in **automation systems** and **embedded programming**  
+## 🔭 Current Projects  
+
+| **Project**                | **Description**                                                                                          |
+|----------------------------|----------------------------------------------------------------------------------------------------------|
+| [**Portfolio Performance**](https://github.com/portfolio-performance) | Tool to track portfolio performance with deep insights into investments                          |
+| [**Portfolio Performance Help**](https://github.com/portfolio-performance/portfolio-help) | Documentation and user support for the Portfolio Performance community                           |
 
 ---
 
-## 📈 GitHub Stats
-### 🔹 General Stats
-![Nirus2000's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirus2000&show_icons=true&theme=radical&count_private=true)  
+## 🌱 Learning Focus  
 
-### 🔹 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirus2000&layout=compact&theme=radical)  
-
-### 🔹 Contribution Graph  
-[![Nirus2000's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nirus2000&theme=react-dark)](https://github.com/Nirus2000)  
-
+| **Topic**                      | **Details**                      |
+|--------------------------------|----------------------------------|
+| **Cloud Computing & DevOps**   | Improving infrastructure skills  |
+| **Machine Learning**           | Focus on predictive analytics    |
+| **Embedded Systems**           | Enhancing automation expertise   |
 
 ---
 
-## 📫 How to Reach Me
-- 🌐 [Facebook](https://www.facebook.com/alexander.ott.1004)
-- 🌐 [Personal Website](https://www.nirus-online.de)
+## 📫 Get in Touch  
+
+| 🌐 [Website](https://www.nirus-online.de) | 🌐 [Facebook](https://www.facebook.com/alexander.ott.1004) |
 
 ---
 
