@@ -34,12 +34,6 @@ I’m a **technology enthusiast** with a passion for **software development**, *
 
 ---
 
-## 📫 Get in Touch  
-
-| 🌐 [Website](https://www.nirus-online.de) | 🌐 [Facebook](https://www.facebook.com/alexander.ott.1004) |
-
----
-
 ## 🌱 Learning Focus  
 
 | **Topic**                  | **Details**                      |
