@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nirus2000!
+# 👋 Hello, I'm Alex!
 
 Welcome to my GitHub profile! 🚀  
 I’m a **technology enthusiast** with a passion for **software development**, **automation systems**, and **technical solutions**. My expertise ranges from **web development** to **industrial automation**, combining **IT systems** and **engineering** to create innovative solutions.  
