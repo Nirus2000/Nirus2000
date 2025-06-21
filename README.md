@@ -7,8 +7,7 @@ I’m a **technology enthusiast** with a passion for **software development**, *
 
 ## 📈 GitHub Stats  
 
-| ![General Stats](https://github-readme-stats.vercel.app/api?username=Nirus2000&show_icons=true&theme=radical&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirus2000&layout=compact&theme=radical) |
-|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+![General Stats](https://github-readme-stats.vercel.app/api?username=Nirus2000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) 
 
 ---
 
